@@ -13,11 +13,3 @@ else:
       str2= str2 + random.choice(str1)
 
 print(str2)
-
-
-
-
-
-
-
-
